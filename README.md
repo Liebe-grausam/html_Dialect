@@ -1,1 +1,4 @@
 # html_Dialect
+这是一个简略的版本，项目主要目的是了解前端基本知识以及尝试将python程序生成一个API接口，在html中调用，目前正在逐步实现中。
+
+python程序的核心思路以及数据清洗的步骤在YuhuanDialect repository中。
